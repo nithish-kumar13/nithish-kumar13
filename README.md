@@ -64,29 +64,37 @@
 <img alt='mongodb' src='https://img.shields.io/badge/mongodb-100000?style=for-the-badge&logo=mongodb&logoColor=FEFFFE&labelColor=589636&color=FEFFFE'/>
 </p>
 
+<p align="left">
 <h5 align="left">Data Visualization:</h5>
 <p align="left">
 <img alt='chart.js' src='https://img.shields.io/badge/chartjs-100000?style=for-the-badge&logo=chart.js&logoColor=FEFFFE&labelColor=FE6385&color=FEFFFE'/>
 </p>
-
 <h5 align="left">Backend as a Service(BaaS):</h5>
 <p align="left">
 <img alt='firebase' src='https://img.shields.io/badge/Firebase-100000?style=for-the-badge&logo=firebase&logoColor=FEFFFE&labelColor=F5820D&color=FEFFFE'/>
 </p>
-
 <h5 align="left">Framework:</h5>
 <p align="left">
 <img alt='django' src='https://img.shields.io/badge/django-100000?style=for-the-badge&logo=django&logoColor=FEFFFE&labelColor=092e20&color=FEFFFE'/>
 </p>
-
-
 <h5 align="left">UI Design:</h5>
 <p align="left">
 <img alt='figma' src='https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma&logoColor=FEFFFE&labelColor=ae4dff&color=FEFFFE'/>
 </p>
-
 <h5 align="left">Others:</h5>
 <p align="left">
 <img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=FEFFFE&labelColor=F1502F&color=FEFFFE'/>
 </p>
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
