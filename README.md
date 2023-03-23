@@ -71,7 +71,7 @@
 <p align="left">
 <img alt='figma' src='https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma&logoColor=FEFFFE&labelColor=ae4dff&color=FEFFFE'/>
 </p>
-<h5 align="left">Others:</h5>
+<h5 align="left">Version Control System (VCS):</h5>
 <p align="left">
 <img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=FEFFFE&labelColor=F1502F&color=FEFFFE'/>
 </p>
