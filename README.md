@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithish Kumar</h1>
 <h3 align="center">A passionate frontend developer from Tamil Nadu</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithish-kumar13&label=Profile%20views&color=0e75b6&style=flat" alt="nithish-kumar13" /> </p>
-
 - 🔭 I’m currently working at [Radome Technology](https://www.radometech.com/)
 
 - 🌱 I’m currently learning **Django Rest Framework, Python and ML**
@@ -18,14 +16,6 @@
 </div>
 
 
-<h3 align="left">🤝🏻 Connect with me:</h3>
-<p align="left">
-  <a href='https://twitter.com/Nithish21806488' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=Twitter&logoColor=FEFFFE&labelColor=0A85F6&color=FEFFFE'/></a>
-  <a href='https://www.linkedin.com/in/nithish-kumar-kalaiselvan-1168a91b6/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=FEFFFE&labelColor=0A85F6&color=FEFFFE'/></a>
-<a href='https://www.instagram.com/nithish.jr_13/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=FEFFFE&labelColor=d62976&color=FEFFFE'/></a>
-<a href='https://dribbble.com/nithishkumar_k' target="_blank"><img alt='dribbble' src='https://img.shields.io/badge/Dribbble-100000?style=for-the-badge&logo=dribbble&logoColor=FEFFFE&labelColor=d62976&color=FEFFFE'/></a>
-<a href='https://medium.com/@nithishnithu5' target="_blank"><img alt='medium' src='https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=FEFFFE&labelColor=131213&color=FEFFFE'/></a>
-  
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 <h5 align="left">Programming Languages:</h5>
 <p align="left">
@@ -87,6 +77,14 @@
 </p>
 </p>
 
+<h3 align="left">🤝🏻 Connect with me:</h3>
+<p align="left">
+  <a href='https://twitter.com/Nithish21806488' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=Twitter&logoColor=FEFFFE&labelColor=0A85F6&color=FEFFFE'/></a>
+  <a href='https://www.linkedin.com/in/nithish-kumar-kalaiselvan-1168a91b6/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=FEFFFE&labelColor=0A85F6&color=FEFFFE'/></a>
+<a href='https://www.instagram.com/nithish.jr_13/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=FEFFFE&labelColor=d62976&color=FEFFFE'/></a>
+<a href='https://dribbble.com/nithishkumar_k' target="_blank"><img alt='dribbble' src='https://img.shields.io/badge/Dribbble-100000?style=for-the-badge&logo=dribbble&logoColor=FEFFFE&labelColor=d62976&color=FEFFFE'/></a>
+<a href='https://medium.com/@nithishnithu5' target="_blank"><img alt='medium' src='https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=FEFFFE&labelColor=131213&color=FEFFFE'/></a>
+<img src="https://komarev.com/ghpvc/?username=nithish-kumar13&label=Profile%20views&color=0e75b6&style=flat" alt="nithish-kumar13" /> </p>
 
 
 
