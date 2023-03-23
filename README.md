@@ -13,9 +13,9 @@
 <h3 align="left">😎 My GitHub Stats:</h3>
 <div  align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithish-kumar13&show_icons=true&locale=en&layout=compact" alt="nithish-kumar13" /></br>
-  <div  align=left>
+  <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nithish-kumar13&show_icons=true&locale=en" alt="nithish-kumar13" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-kumar13&" alt="nithish-kumar13" /></div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-kumar13&" alt="nithish-kumar13" /></p>
 </div>
 
 
