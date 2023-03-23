@@ -25,34 +25,68 @@
 <a href='https://www.instagram.com/nithish.jr_13/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=FEFFFE&labelColor=d62976&color=FEFFFE'/></a>
 <a href='https://dribbble.com/nithishkumar_k' target="_blank"><img alt='dribbble' src='https://img.shields.io/badge/Dribbble-100000?style=for-the-badge&logo=dribbble&logoColor=FEFFFE&labelColor=d62976&color=FEFFFE'/></a>
 <a href='https://medium.com/@nithishnithu5' target="_blank"><img alt='medium' src='https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=FEFFFE&labelColor=131213&color=FEFFFE'/></a>
-
+  
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
+<h5 align="left">Programming Languages:</h5>
+<p align="left">
+<img alt='c' src='https://img.shields.io/badge/C_Language-100000?style=for-the-badge&logo=c&logoColor=FEFFFE&labelColor=293592&color=FEFFFE'/>
+<img alt='python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=4B8BBE&color=FEFFFE'/>
+<img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=javascript&logoColor=FEFFFE&labelColor=f0db4f&color=FEFFFE'/>
+<img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=for-the-badge&logo=typescript&logoColor=FEFFFE&labelColor=007acc&color=FEFFFE'/>
+</p>
+
+<h5 align="left">Frontend Development:</h5>
 <p align="left">
 <img alt='html5' src='https://img.shields.io/badge/Html-100000?style=for-the-badge&logo=html5&logoColor=FEFFFE&labelColor=e34c26&color=FEFFFE'/>
 <img alt='css3' src='https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=css3&logoColor=FEFFFE&labelColor=264de4&color=FEFFFE'/>
-<img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=javascript&logoColor=FEFFFE&labelColor=f0db4f&color=FEFFFE'/>
 <img alt='React' src='https://img.shields.io/badge/React_JS-100000?style=for-the-badge&logo=React&logoColor=FEFFFE&labelColor=61dbfb&color=FEFFFE'/>
 <img alt='next.js' src='https://img.shields.io/badge/Next_js-100000?style=for-the-badge&logo=next.js&logoColor=FEFFFE&labelColor=010001&color=FEFFFE'/>
+<img alt='sass' src='https://img.shields.io/badge/Sass-100000?style=for-the-badge&logo=sass&logoColor=FEFFFE&labelColor=CD6799&color=FEFFFE'/>
+<img alt='bootstrap' src='https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=FEFFFE&labelColor=563d7c&color=FEFFFE'/>
+<img alt='redux' src='https://img.shields.io/badge/Redux-100000?style=for-the-badge&logo=redux&logoColor=FEFFFE&labelColor=00a7e5&color=FEFFFE'/>
+</p>
+
+<h5 align="left">Backend Development:</h5>
+<p align="left">
+<img alt='node.js' src='https://img.shields.io/badge/Node_js-100000?style=for-the-badge&logo=node.js&logoColor=FEFFFE&labelColor=68a063&color=FEFFFE'/>
+</p>
+
+<h5 align="left">Mobile App Development:</h5>
+<p align="left">
 <img alt='React' src='https://img.shields.io/badge/React_Native-100000?style=for-the-badge&logo=React&logoColor=FEFFFE&labelColor=61dbfb&color=FEFFFE'/>
-<img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=FEFFFE&labelColor=F1502F&color=FEFFFE'/>
 <img alt='flutter' src='https://img.shields.io/badge/Flutter-100000?style=for-the-badge&logo=flutter&logoColor=FEFFFE&labelColor=042B59&color=FEFFFE'/>
 <img alt='dart' src='https://img.shields.io/badge/Dart-100000?style=for-the-badge&logo=dart&logoColor=FEFFFE&labelColor=00A758&color=FEFFFE'/>
-<img alt='redux' src='https://img.shields.io/badge/Redux-100000?style=for-the-badge&logo=redux&logoColor=FEFFFE&labelColor=00a7e5&color=FEFFFE'/>
-<img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=for-the-badge&logo=typescript&logoColor=FEFFFE&labelColor=007acc&color=FEFFFE'/>
-<img alt='sass' src='https://img.shields.io/badge/Sass-100000?style=for-the-badge&logo=sass&logoColor=FEFFFE&labelColor=CD6799&color=FEFFFE'/>
-<img alt='c' src='https://img.shields.io/badge/C_Language-100000?style=for-the-badge&logo=c&logoColor=FEFFFE&labelColor=293592&color=FEFFFE'/>
-<img alt='python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=4B8BBE&color=FEFFFE'/>
-<img alt='django' src='https://img.shields.io/badge/django-100000?style=for-the-badge&logo=django&logoColor=FEFFFE&labelColor=092e20&color=FEFFFE'/>
-<img alt='node.js' src='https://img.shields.io/badge/Node_js-100000?style=for-the-badge&logo=node.js&logoColor=FEFFFE&labelColor=68a063&color=FEFFFE'/>
+</p>
+
+<h5 align="left">Database:</h5>
+<p align="left">
 <img alt='mysql' src='https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=FEFFFE&labelColor=00758f&color=FEFFFE'/>
 <img alt='mongodb' src='https://img.shields.io/badge/mongodb-100000?style=for-the-badge&logo=mongodb&logoColor=FEFFFE&labelColor=589636&color=FEFFFE'/>
-<img alt='firebase' src='https://img.shields.io/badge/Firebase-100000?style=for-the-badge&logo=firebase&logoColor=FEFFFE&labelColor=F5820D&color=FEFFFE'/>
-<img alt='figma' src='https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma&logoColor=FEFFFE&labelColor=ae4dff&color=FEFFFE'/>
+</p>
+
+<h5 align="left">Data Visualization:</h5>
+<p align="left">
 <img alt='chart.js' src='https://img.shields.io/badge/chartjs-100000?style=for-the-badge&logo=chart.js&logoColor=FEFFFE&labelColor=FE6385&color=FEFFFE'/>
-<img alt='bootstrap' src='https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=FEFFFE&labelColor=563d7c&color=FEFFFE'/>
+</p>
+
+<h5 align="left">Backend as a Service(BaaS):</h5>
+<p align="left">
+<img alt='firebase' src='https://img.shields.io/badge/Firebase-100000?style=for-the-badge&logo=firebase&logoColor=FEFFFE&labelColor=F5820D&color=FEFFFE'/>
+</p>
+
+<h5 align="left">Framework:</h5>
+<p align="left">
+<img alt='django' src='https://img.shields.io/badge/django-100000?style=for-the-badge&logo=django&logoColor=FEFFFE&labelColor=092e20&color=FEFFFE'/>
 </p>
 
 
+<h5 align="left">UI Design:</h5>
+<p align="left">
+<img alt='figma' src='https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma&logoColor=FEFFFE&labelColor=ae4dff&color=FEFFFE'/>
+</p>
 
-
+<h5 align="left">Others:</h5>
+<p align="left">
+<img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=FEFFFE&labelColor=F1502F&color=FEFFFE'/>
+</p>
 
