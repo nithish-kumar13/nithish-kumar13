@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithish Kumar</h1>
-<h3 align="center">A passionate frontend developer from Tamil Nadu</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working at [Radome Technology](https://www.radometech.com/)
 
