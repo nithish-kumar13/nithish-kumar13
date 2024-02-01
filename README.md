@@ -85,7 +85,6 @@
 <a href='https://dribbble.com/nithishkumar_k' target="_blank"><img alt='dribbble' src='https://img.shields.io/badge/Dribbble-100000?style=for-the-badge&logo=dribbble&logoColor=FEFFFE&labelColor=d62976&color=FEFFFE'/></a>
 <a href='https://medium.com/@nithishnithu5' target="_blank"><img alt='medium' src='https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=FEFFFE&labelColor=131213&color=FEFFFE'/></a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=nithish-kumar13&label=Profile%20views&color=0e75b6&style=flat" alt="nithish-kumar13" />
 
 
 
